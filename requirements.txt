@@ -2,5 +2,5 @@ mmcv
 mmsegmentation
 opencv-python
 openmim
-pip-chill
 timm
+clip-by-openai
